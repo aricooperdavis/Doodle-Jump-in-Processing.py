@@ -8,6 +8,6 @@ To play, clone the repository, and open `DoodleJumpClone.pyde` in the Processing
 LEFT and RIGHT arrow keys move the bouncing cube left and right. Jump on the platforms to move up. If you die, click the mouse to restart. After a score of 200 platforms might start to disappear when jumped on! After a score of 500 all platforms will disappear once jumped on, so be quick. Good luck!
 
 ## Screenshots
-![Gameplay screenshot](https://github.com/aricooperdavis/Doodle-Jump-in-Processing.py/raw/master/src/common/images/Screenshot1.png "Screenshot 1")
-![Gameplay screenshot](https://github.com/aricooperdavis/Doodle-Jump-in-Processing.py/raw/master/src/common/images/Screenshot2.png "Screenshot 2")
-![Gameplay screenshot](https://github.com/aricooperdavis/Doodle-Jump-in-Processing.py/raw/master/src/common/images/Screenshot3.png "Screenshot 3")
+![Gameplay screenshot](https://github.com/aricooperdavis/Doodle-Jump-in-Processing.py/blob/master/Screenshot1.png "Screenshot 1")
+![Gameplay screenshot](https://github.com/aricooperdavis/Doodle-Jump-in-Processing.py/blob/master/Screenshot2.png "Screenshot 2")
+![Gameplay screenshot](https://github.com/aricooperdavis/Doodle-Jump-in-Processing.py/blob/master/Screenshot3.png "Screenshot 3")
